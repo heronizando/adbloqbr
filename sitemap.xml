@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset>
-    <url>https://heronizando.github.io/adbloqbr/</url>
-    <url>https://heronizando.github.io/adbloqbr/about.html</url>
-    <url>https://heronizando.github.io/adbloqbr/faq.html</url>
-    <url>https://heronizando.github.io/adbloqbr/terms.html</url>
-    <url>https://heronizando.github.io/adbloqbr/privacy.html</url>
-    <url>https://heronizando.github.io/adbloqbr/en/</url>
-    <url>https://heronizando.github.io/adbloqbr/en/about.html</url>
-    <url>https://heronizando.github.io/adbloqbr/en/faq.html</url>
-    <url>https://heronizando.github.io/adbloqbr/en/terms.html</url>
-    <url>https://heronizando.github.io/adbloqbr/en/privacy.html</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>https://heronizando.github.io/adbloqbr/</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/about.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/faq.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/terms.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/privacy.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/en/</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/en/about.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/en/faq.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/en/terms.html</loc></url>
+    <url><loc>https://heronizando.github.io/adbloqbr/en/privacy.html</loc></url>
 </urlset> 

@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /en/
+Disallow: /.git/
 
+Host: https://heronizando.github.io/adbloqbr/
 Sitemap: https://heronizando.github.io/adbloqbr/sitemap.xml 
