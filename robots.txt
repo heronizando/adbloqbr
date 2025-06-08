@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /en/
+
+Sitemap: https://adbloqbr.com.br/sitemap.xml 
