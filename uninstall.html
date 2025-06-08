@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AdBloq BR - Desinstalação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .logo {
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 30px;
+        }
+        .reinstall-btn {
+            display: inline-block;
+            background-color: #09B37D;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 20px 0;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .reinstall-btn:hover {
+            background-color: #50cba4;
+        }
+        .profile-section {
+            margin: 40px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            margin-bottom: 20px;
+            object-fit: cover;
+            border: 3px solid #09B37D;
+        }
+        .cry-gif {
+            width: 100px;
+            margin: 20px 0;
+        }
+        .feedback-form {
+            max-width: 500px;
+            margin: 0 auto;
+        }
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            min-height: 100px;
+            font-family: inherit;
+        }
+        .submit-btn {
+            background-color: #09B37D;
+            color: white;
+            border: none;
+            padding: 10px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .submit-btn:hover {
+            background-color: #50cba4;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        h1 {
+            font-size: 1.8em;
+            margin: 20px 0;
+        }
+        h3 {
+            font-size: 1.3em;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">AdBloq BR</div>
+        
+        <a href="install.html" class="reinstall-btn">Reinstalar o AdBloq BR</a>
+
+        <h3>O bloqueador de anúncios AdBloq BR não foi útil para você?</h3>
+        <img src="img/cry.gif" alt="Emoji triste" class="cry-gif">
+        <h1>Diga-nos o motivo para que possamos melhorá-lo!</h1>
+
+        <div class="profile-section">
+            <img src="img/perfil.jpeg" alt="Heronizando" class="profile-img">
+            <h3>Olá,</h3>
+            <p>
+                Sou Heronizando, o criador do AdBloq BR. Minha missão é oferecer uma experiência de navegação mais limpa, 
+                segura e rápida ao remover anúncios invasivos, pop-ups, banners e anúncios em vídeo.
+            </p>
+            <p>
+                Se o AdBloq BR não atendeu totalmente às suas expectativas, ficaria muito grato pelo seu feedback. 
+                Você poderia nos dizer por que decidiu desinstalá-lo?
+            </p>
+            <p>
+                Suas opiniões nos ajudarão a melhorar continuamente o AdBloq BR para milhões de usuários em todo o mundo.
+            </p>
+            <p><strong>Heronizando</strong><br>Criador e Desenvolvedor</p>
+        </div>
+
+        <h3>Por favor, diga-nos por que você desinstalou o AdBloq BR.<br>
+            Seu feedback ajudará a melhorar sua experiência.</h3>
+
+        <form class="feedback-form" id="feedbackForm">
+            <textarea placeholder="Seu feedback é muito importante para nós..."></textarea>
+            <button type="submit" class="submit-btn">Enviar</button>
+        </form>
+
+        <h3>Obrigado pelo seu valioso feedback</h3>
+        <h1>Espero que você dê outra chance ao AdBloq BR!</h1>
+    </div>
+
+    <script>
+        document.getElementById('feedbackForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            alert('Obrigado pelo seu feedback! Vamos trabalhar para melhorar ainda mais o AdBloq BR.');
+            this.reset();
+        });
+    </script>
+</body>
+</html> 
