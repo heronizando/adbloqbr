@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Allow: /en/
 
-Sitemap: https://adbloqbr.com.br/sitemap.xml 
+Sitemap: https://heronizando.github.io/adbloqbr/sitemap.xml 

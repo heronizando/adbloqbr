@@ -1,88 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-    <!-- Páginas em Português -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://adbloqbr.com.br/</loc>
+        <loc>https://heronizando.github.io/adbloqbr/</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/about.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/about.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/about.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/about.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/about.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/faq.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/faq.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/faq.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/faq.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/terms.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/terms.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/terms.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/terms.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/privacy.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/privacy.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/privacy.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/privacy.html"/>
     </url>
-
-    <!-- Páginas em Inglês -->
     <url>
-        <loc>https://adbloqbr.com.br/en/</loc>
+        <loc>https://heronizando.github.io/adbloqbr/en/</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/en/about.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/en/about.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/about.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/about.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/about.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/about.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/en/faq.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/en/faq.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/faq.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/faq.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/faq.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/en/terms.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/en/terms.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/terms.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/terms.html"/>
     </url>
     <url>
-        <loc>https://adbloqbr.com.br/en/privacy.html</loc>
+        <loc>https://heronizando.github.io/adbloqbr/en/privacy.html</loc>
         <lastmod>2024-03-20</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://adbloqbr.com.br/en/privacy.html"/>
-        <xhtml:link rel="alternate" hreflang="pt-br" href="https://adbloqbr.com.br/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://heronizando.github.io/adbloqbr/en/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="pt-br" href="https://heronizando.github.io/adbloqbr/privacy.html"/>
     </url>
 </urlset> 
